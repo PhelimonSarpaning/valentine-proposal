@@ -82,7 +82,7 @@ export default function Surprise() {
         duration={1400}
         delay={(el, index) => index * 30}>
     <p className="firstText">
-          Sharida Holloway, would you be my valentine ? 
+          [Name Placeholder], would you be my valentine ? 
         </p>
   </Anime>
             
